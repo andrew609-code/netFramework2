@@ -1,0 +1,7 @@
+C:\Users\marsh\Documents\GitHub\netFramework2\ArrayAssignmentMod1\ArrayAssignmentMod1\bin\Debug\ArrayAssignmentMod1.exe.config
+C:\Users\marsh\Documents\GitHub\netFramework2\ArrayAssignmentMod1\ArrayAssignmentMod1\bin\Debug\ArrayAssignmentMod1.exe
+C:\Users\marsh\Documents\GitHub\netFramework2\ArrayAssignmentMod1\ArrayAssignmentMod1\bin\Debug\ArrayAssignmentMod1.pdb
+C:\Users\marsh\Documents\GitHub\netFramework2\ArrayAssignmentMod1\ArrayAssignmentMod1\obj\Debug\ArrayAssignmentMod1.csproj.AssemblyReference.cache
+C:\Users\marsh\Documents\GitHub\netFramework2\ArrayAssignmentMod1\ArrayAssignmentMod1\obj\Debug\ArrayAssignmentMod1.csproj.CoreCompileInputs.cache
+C:\Users\marsh\Documents\GitHub\netFramework2\ArrayAssignmentMod1\ArrayAssignmentMod1\obj\Debug\ArrayAssignmentMod1.exe
+C:\Users\marsh\Documents\GitHub\netFramework2\ArrayAssignmentMod1\ArrayAssignmentMod1\obj\Debug\ArrayAssignmentMod1.pdb

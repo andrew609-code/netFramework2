@@ -1,0 +1,7 @@
+C:\Users\marsh\Documents\GitHub\netFramework2\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.exe.config
+C:\Users\marsh\Documents\GitHub\netFramework2\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.exe
+C:\Users\marsh\Documents\GitHub\netFramework2\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.pdb
+C:\Users\marsh\Documents\GitHub\netFramework2\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.csproj.AssemblyReference.cache
+C:\Users\marsh\Documents\GitHub\netFramework2\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.csproj.CoreCompileInputs.cache
+C:\Users\marsh\Documents\GitHub\netFramework2\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.exe
+C:\Users\marsh\Documents\GitHub\netFramework2\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.pdb
