@@ -1,0 +1,7 @@
+C:\Users\marsh\Documents\GitHub\netFramework2\ConsoleApp6part\ConsoleApp6part\bin\Debug\ConsoleApp6part.exe.config
+C:\Users\marsh\Documents\GitHub\netFramework2\ConsoleApp6part\ConsoleApp6part\bin\Debug\ConsoleApp6part.exe
+C:\Users\marsh\Documents\GitHub\netFramework2\ConsoleApp6part\ConsoleApp6part\bin\Debug\ConsoleApp6part.pdb
+C:\Users\marsh\Documents\GitHub\netFramework2\ConsoleApp6part\ConsoleApp6part\obj\Debug\ConsoleApp6part.csproj.AssemblyReference.cache
+C:\Users\marsh\Documents\GitHub\netFramework2\ConsoleApp6part\ConsoleApp6part\obj\Debug\ConsoleApp6part.csproj.CoreCompileInputs.cache
+C:\Users\marsh\Documents\GitHub\netFramework2\ConsoleApp6part\ConsoleApp6part\obj\Debug\ConsoleApp6part.exe
+C:\Users\marsh\Documents\GitHub\netFramework2\ConsoleApp6part\ConsoleApp6part\obj\Debug\ConsoleApp6part.pdb
