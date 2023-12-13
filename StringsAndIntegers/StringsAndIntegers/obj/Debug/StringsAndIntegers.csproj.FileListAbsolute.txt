@@ -1,0 +1,7 @@
+C:\Users\marsh\Documents\GitHub\netFramework2\StringsAndIntegers\StringsAndIntegers\bin\Debug\StringsAndIntegers.exe.config
+C:\Users\marsh\Documents\GitHub\netFramework2\StringsAndIntegers\StringsAndIntegers\bin\Debug\StringsAndIntegers.exe
+C:\Users\marsh\Documents\GitHub\netFramework2\StringsAndIntegers\StringsAndIntegers\bin\Debug\StringsAndIntegers.pdb
+C:\Users\marsh\Documents\GitHub\netFramework2\StringsAndIntegers\StringsAndIntegers\obj\Debug\StringsAndIntegers.csproj.AssemblyReference.cache
+C:\Users\marsh\Documents\GitHub\netFramework2\StringsAndIntegers\StringsAndIntegers\obj\Debug\StringsAndIntegers.csproj.CoreCompileInputs.cache
+C:\Users\marsh\Documents\GitHub\netFramework2\StringsAndIntegers\StringsAndIntegers\obj\Debug\StringsAndIntegers.exe
+C:\Users\marsh\Documents\GitHub\netFramework2\StringsAndIntegers\StringsAndIntegers\obj\Debug\StringsAndIntegers.pdb

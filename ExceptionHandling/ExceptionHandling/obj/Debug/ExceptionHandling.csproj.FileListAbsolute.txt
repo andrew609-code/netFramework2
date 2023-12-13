@@ -1,0 +1,7 @@
+C:\Users\marsh\Documents\GitHub\netFramework2\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\marsh\Documents\GitHub\netFramework2\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\marsh\Documents\GitHub\netFramework2\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\marsh\Documents\GitHub\netFramework2\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\marsh\Documents\GitHub\netFramework2\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\marsh\Documents\GitHub\netFramework2\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\marsh\Documents\GitHub\netFramework2\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb
