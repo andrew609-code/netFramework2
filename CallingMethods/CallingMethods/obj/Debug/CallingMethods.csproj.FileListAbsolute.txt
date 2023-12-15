@@ -1,0 +1,7 @@
+C:\Users\marsh\Documents\GitHub\Csharp\CallingMethods\CallingMethods\obj\Debug\CallingMethods.csproj.AssemblyReference.cache
+C:\Users\marsh\Documents\GitHub\Csharp\CallingMethods\CallingMethods\obj\Debug\CallingMethods.csproj.CoreCompileInputs.cache
+C:\Users\marsh\Documents\GitHub\Csharp\CallingMethods\CallingMethods\bin\Debug\CallingMethods.exe.config
+C:\Users\marsh\Documents\GitHub\Csharp\CallingMethods\CallingMethods\bin\Debug\CallingMethods.exe
+C:\Users\marsh\Documents\GitHub\Csharp\CallingMethods\CallingMethods\bin\Debug\CallingMethods.pdb
+C:\Users\marsh\Documents\GitHub\Csharp\CallingMethods\CallingMethods\obj\Debug\CallingMethods.exe
+C:\Users\marsh\Documents\GitHub\Csharp\CallingMethods\CallingMethods\obj\Debug\CallingMethods.pdb
