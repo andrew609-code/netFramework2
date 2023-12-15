@@ -1,0 +1,7 @@
+C:\Users\marsh\Documents\GitHub\netFramework2\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\marsh\Documents\GitHub\netFramework2\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\marsh\Documents\GitHub\netFramework2\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\marsh\Documents\GitHub\netFramework2\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\marsh\Documents\GitHub\netFramework2\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\marsh\Documents\GitHub\netFramework2\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\marsh\Documents\GitHub\netFramework2\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
