@@ -1,0 +1,7 @@
+C:\Users\marsh\Documents\GitHub\netFramework2\MainMethod\MainMethod\bin\Debug\MainMethod.exe.config
+C:\Users\marsh\Documents\GitHub\netFramework2\MainMethod\MainMethod\bin\Debug\MainMethod.exe
+C:\Users\marsh\Documents\GitHub\netFramework2\MainMethod\MainMethod\bin\Debug\MainMethod.pdb
+C:\Users\marsh\Documents\GitHub\netFramework2\MainMethod\MainMethod\obj\Debug\MainMethod.csproj.AssemblyReference.cache
+C:\Users\marsh\Documents\GitHub\netFramework2\MainMethod\MainMethod\obj\Debug\MainMethod.csproj.CoreCompileInputs.cache
+C:\Users\marsh\Documents\GitHub\netFramework2\MainMethod\MainMethod\obj\Debug\MainMethod.exe
+C:\Users\marsh\Documents\GitHub\netFramework2\MainMethod\MainMethod\obj\Debug\MainMethod.pdb
