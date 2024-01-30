@@ -1,0 +1,2 @@
+C:\Users\marsh\Documents\GitHub\netFramework2\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.csproj.AssemblyReference.cache
+C:\Users\marsh\Documents\GitHub\netFramework2\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.csproj.CoreCompileInputs.cache

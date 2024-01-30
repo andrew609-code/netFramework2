@@ -1,0 +1,2 @@
+C:\Users\marsh\Documents\GitHub\netFramework2\ParsingEnums\ParsingEnums\obj\Debug\ParsingEnums.csproj.AssemblyReference.cache
+C:\Users\marsh\Documents\GitHub\netFramework2\ParsingEnums\ParsingEnums\obj\Debug\ParsingEnums.csproj.CoreCompileInputs.cache

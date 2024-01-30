@@ -1,0 +1,7 @@
+C:\Users\marsh\Documents\GitHub\netFramework2\Abstract\Abstract\bin\Debug\Abstract.exe.config
+C:\Users\marsh\Documents\GitHub\netFramework2\Abstract\Abstract\bin\Debug\Abstract.exe
+C:\Users\marsh\Documents\GitHub\netFramework2\Abstract\Abstract\bin\Debug\Abstract.pdb
+C:\Users\marsh\Documents\GitHub\netFramework2\Abstract\Abstract\obj\Debug\Abstract.csproj.AssemblyReference.cache
+C:\Users\marsh\Documents\GitHub\netFramework2\Abstract\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+C:\Users\marsh\Documents\GitHub\netFramework2\Abstract\Abstract\obj\Debug\Abstract.exe
+C:\Users\marsh\Documents\GitHub\netFramework2\Abstract\Abstract\obj\Debug\Abstract.pdb
