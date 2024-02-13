@@ -1,0 +1,7 @@
+C:\Users\marsh\Documents\GitHub\netFramework2\DateTime\DateTime\bin\Debug\DateTime.exe.config
+C:\Users\marsh\Documents\GitHub\netFramework2\DateTime\DateTime\bin\Debug\DateTime.exe
+C:\Users\marsh\Documents\GitHub\netFramework2\DateTime\DateTime\bin\Debug\DateTime.pdb
+C:\Users\marsh\Documents\GitHub\netFramework2\DateTime\DateTime\obj\Debug\DateTime.csproj.AssemblyReference.cache
+C:\Users\marsh\Documents\GitHub\netFramework2\DateTime\DateTime\obj\Debug\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\marsh\Documents\GitHub\netFramework2\DateTime\DateTime\obj\Debug\DateTime.exe
+C:\Users\marsh\Documents\GitHub\netFramework2\DateTime\DateTime\obj\Debug\DateTime.pdb

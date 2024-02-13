@@ -1,0 +1,7 @@
+C:\Users\marsh\Documents\GitHub\netFramework2\IQuittable\IQuittable\obj\Debug\IQuittable.csproj.AssemblyReference.cache
+C:\Users\marsh\Documents\GitHub\netFramework2\IQuittable\IQuittable\obj\Debug\IQuittable.csproj.CoreCompileInputs.cache
+C:\Users\marsh\Documents\GitHub\netFramework2\IQuittable\IQuittable\bin\Debug\IQuittable.exe.config
+C:\Users\marsh\Documents\GitHub\netFramework2\IQuittable\IQuittable\bin\Debug\IQuittable.exe
+C:\Users\marsh\Documents\GitHub\netFramework2\IQuittable\IQuittable\bin\Debug\IQuittable.pdb
+C:\Users\marsh\Documents\GitHub\netFramework2\IQuittable\IQuittable\obj\Debug\IQuittable.exe
+C:\Users\marsh\Documents\GitHub\netFramework2\IQuittable\IQuittable\obj\Debug\IQuittable.pdb

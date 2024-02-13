@@ -1,0 +1,2 @@
+C:\Users\marsh\Documents\GitHub\netFramework2\ef6codefirst\ef6codefirst\obj\Debug\ef6codefirst.csproj.AssemblyReference.cache
+C:\Users\marsh\Documents\GitHub\netFramework2\ef6codefirst\ef6codefirst\obj\Debug\ef6codefirst.csproj.CoreCompileInputs.cache

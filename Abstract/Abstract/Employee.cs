@@ -19,5 +19,12 @@ namespace Abstract
         {
 
         }
+
+        public void Quit(Person : Employee)
+        {
+            throw new NotImplementedException();
+        }
+
+       
     }
 }

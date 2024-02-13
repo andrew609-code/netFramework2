@@ -13,5 +13,10 @@ namespace Abstract
             name.SayName();
             Console.ReadLine();
         }
+        public void Quit()
+        {
+            throw new NotImplementedException();
+        }
     }
+
 }

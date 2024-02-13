@@ -1,0 +1,5 @@
+C:\Users\marsh\Documents\GitHub\netFramework2\TwentyOne\Casino2\bin\Debug\Casino2.dll
+C:\Users\marsh\Documents\GitHub\netFramework2\TwentyOne\Casino2\bin\Debug\Casino2.pdb
+C:\Users\marsh\Documents\GitHub\netFramework2\TwentyOne\Casino2\obj\Debug\Casino2.csproj.CoreCompileInputs.cache
+C:\Users\marsh\Documents\GitHub\netFramework2\TwentyOne\Casino2\obj\Debug\Casino2.dll
+C:\Users\marsh\Documents\GitHub\netFramework2\TwentyOne\Casino2\obj\Debug\Casino2.pdb

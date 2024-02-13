@@ -1,0 +1,6 @@
+C:\Users\marsh\Documents\GitHub\netFramework2\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\marsh\Documents\GitHub\netFramework2\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\marsh\Documents\GitHub\netFramework2\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\marsh\Documents\GitHub\netFramework2\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\marsh\Documents\GitHub\netFramework2\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\marsh\Documents\GitHub\netFramework2\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
