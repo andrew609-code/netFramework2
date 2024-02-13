@@ -1,0 +1,6 @@
+C:\Users\marsh\Documents\GitHub\netFramework2\Operators\Operators\bin\Debug\Operators.exe.config
+C:\Users\marsh\Documents\GitHub\netFramework2\Operators\Operators\bin\Debug\Operators.exe
+C:\Users\marsh\Documents\GitHub\netFramework2\Operators\Operators\bin\Debug\Operators.pdb
+C:\Users\marsh\Documents\GitHub\netFramework2\Operators\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\Users\marsh\Documents\GitHub\netFramework2\Operators\Operators\obj\Debug\Operators.exe
+C:\Users\marsh\Documents\GitHub\netFramework2\Operators\Operators\obj\Debug\Operators.pdb
