@@ -1,0 +1,7 @@
+C:\Users\marsh\Documents\GitHub\netFramework2\Final\Final\Final\bin\Debug\Final.exe.config
+C:\Users\marsh\Documents\GitHub\netFramework2\Final\Final\Final\bin\Debug\Final.exe
+C:\Users\marsh\Documents\GitHub\netFramework2\Final\Final\Final\bin\Debug\Final.pdb
+C:\Users\marsh\Documents\GitHub\netFramework2\Final\Final\Final\obj\Debug\Final.csproj.AssemblyReference.cache
+C:\Users\marsh\Documents\GitHub\netFramework2\Final\Final\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+C:\Users\marsh\Documents\GitHub\netFramework2\Final\Final\Final\obj\Debug\Final.exe
+C:\Users\marsh\Documents\GitHub\netFramework2\Final\Final\Final\obj\Debug\Final.pdb
