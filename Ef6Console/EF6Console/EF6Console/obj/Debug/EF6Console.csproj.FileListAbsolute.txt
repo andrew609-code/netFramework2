@@ -1,0 +1,12 @@
+C:\Users\marsh\Documents\GitHub\netFramework2\Ef6Console\EF6Console\EF6Console\obj\Debug\EF6Console.csproj.AssemblyReference.cache
+C:\Users\marsh\Documents\GitHub\netFramework2\Ef6Console\EF6Console\EF6Console\obj\Debug\EF6Console.csproj.CoreCompileInputs.cache
+C:\Users\marsh\Documents\GitHub\netFramework2\Ef6Console\EF6Console\EF6Console\bin\Debug\EF6Console.exe.config
+C:\Users\marsh\Documents\GitHub\netFramework2\Ef6Console\EF6Console\EF6Console\bin\Debug\EF6Console.exe
+C:\Users\marsh\Documents\GitHub\netFramework2\Ef6Console\EF6Console\EF6Console\bin\Debug\EF6Console.pdb
+C:\Users\marsh\Documents\GitHub\netFramework2\Ef6Console\EF6Console\EF6Console\bin\Debug\EntityFramework.dll
+C:\Users\marsh\Documents\GitHub\netFramework2\Ef6Console\EF6Console\EF6Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\marsh\Documents\GitHub\netFramework2\Ef6Console\EF6Console\EF6Console\bin\Debug\EntityFramework.xml
+C:\Users\marsh\Documents\GitHub\netFramework2\Ef6Console\EF6Console\EF6Console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\marsh\Documents\GitHub\netFramework2\Ef6Console\EF6Console\EF6Console\obj\Debug\EF6Console.csproj.CopyComplete
+C:\Users\marsh\Documents\GitHub\netFramework2\Ef6Console\EF6Console\EF6Console\obj\Debug\EF6Console.exe
+C:\Users\marsh\Documents\GitHub\netFramework2\Ef6Console\EF6Console\EF6Console\obj\Debug\EF6Console.pdb
