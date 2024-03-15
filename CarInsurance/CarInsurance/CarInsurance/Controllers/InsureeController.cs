@@ -13,6 +13,75 @@ namespace CarInsurance.Controllers
     public class InsureeController : Controller
     {
         private InsuranceEntities db = new InsuranceEntities();
+        private readonly object _context;
+
+        public object Insurees { get; private set; }
+
+        public ActionResult Create(InsureeViewModel model)
+        {
+            if (ModelState.IsValid)
+            {
+                decimal quote = 50.00m; // Base quote
+
+                // Age calculation
+                if (model.CarYear <= 18)
+                    quote += 100.00m;
+                else if (model.CarYear >= 19 && model.Age <= 25)
+                    quote += 50.00m;
+                else
+                    quote += 25.00m;
+
+                // Car year calculation
+                if (model.CarYear < 2000)
+                    quote += 25.00m;
+                else if (model.CarYear > 2015)
+                    quote += 25.00m;
+
+                // Car Make calculation
+                if (model.CarMake == "Porsche")
+                {
+                    quote += 25.00m;
+                    if (model.CarModel == "911 Carrera")
+                        quote += 25.00m;
+                }
+
+                // Speeding tickets calculation
+                quote += model.SpeedingTickets * 10.00m;
+
+                // DUI calculation
+                if (model.DUI)
+                    quote *= 1.25m; // Increase by 25%
+
+                // Full coverage calculation
+                if (model.FullCoverage)
+                    quote *= 1.50m; // Increase by 50%
+
+                // Save quote to database
+                var insuree = new Insuree
+                {
+                    FirstName = model.FirstName,
+                    LastName = model.LastName,
+                    Email = model.Email,
+                    Quote = quote
+                };
+                _context.Insurees.Add(insuree);
+                _context.SaveChanges();
+
+                return RedirectToAction("Index", "Home"); // Redirect to home page after submission
+            }
+
+            return View(model); // Return the view with errors if ModelState is not valid
+        }
+
+        // GET: Insuree/AdminView
+        public ActionResult AdminView()
+        {
+            var insurees = _context.Insurees.ToList(); // Retrieve all Insurees with quotes
+            return View(insurees);
+        }
+
+
+
 
         // GET: Insuree
         public ActionResult Index()
