@@ -13,7 +13,7 @@ namespace CarInsurance.Controllers
     public class InsureeController : Controller
     {
         private InsuranceEntities db = new InsuranceEntities();
-        private readonly object _context;
+        private InsuranceEntities _context = new InsuranceEntities();
 
         public object Insurees { get; private set; }
 
@@ -24,9 +24,9 @@ namespace CarInsurance.Controllers
                 decimal quote = 50.00m; // Base quote
 
                 // Age calculation
-                if (model.CarYear <= 18)
+                if (model.DateOfBirth <= 18)
                     quote += 100.00m;
-                else if (model.CarYear >= 19 && model.Age <= 25)
+                else if (model.DateOfBirth >= 19 && model.Age <= 25)
                     quote += 50.00m;
                 else
                     quote += 25.00m;
