@@ -15,8 +15,6 @@ namespace CarInsurance.Controllers
         private InsuranceEntities db = new InsuranceEntities();
         private InsuranceEntities _context = new InsuranceEntities();
 
-        public object Insurees { get; private set; }
-
         public ActionResult Create(InsureeViewModel model)
         {
             if (ModelState.IsValid)
